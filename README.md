@@ -1,0 +1,3 @@
+workspace is for implementing the reader on a STM32F446 Nucleao-64 board in the STM32CUBEIDE software.
+
+The rest is matlab code for testing data collected from either an osciloscope or the STM32 board.
